@@ -1,2 +1,1 @@
-# WS-JS30
-Wes Bos JavaScript30
+Wes Bos JavaScript30 exercises repo
